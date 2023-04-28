@@ -21,7 +21,7 @@ terraform {
 }
 
 provider "aws" {
-  region  = "eu-west-1"
+  region  = "ap-northeast-2"
   profile = "demo"
   shared_credentials_file = "~/.aws/credentials"
 }
