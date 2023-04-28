@@ -13,3 +13,4 @@ infra/*/*/*/terraform.rc
 infra/*/*/*/.terraform.lock.hcl
 # ignore target jar
 target/*
+/.idea/
